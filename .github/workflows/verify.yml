@@ -1,5 +1,5 @@
 
-name: FPGA Verification
+name: Async-FIFO-Verification-Suite
 
 on: [push, pull_request]
 
